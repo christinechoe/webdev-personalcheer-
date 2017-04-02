@@ -1,8 +1,11 @@
 
 .main {
+	margin: auto;
+	text-align: center;
+	padding: 50px;
 	color: white;
-	width: 500px;
-	height:500px;
+	width: 300px;
+	height:300px;
 	background-color: #1492E8;
 }
 .main h2 {
@@ -10,7 +13,8 @@
 }
 
 .main button {
-	padding: 25px;
+	margin-top: 100px;
+	padding: 40px;
 	background-color: #949494;
 	border: none;
 }
