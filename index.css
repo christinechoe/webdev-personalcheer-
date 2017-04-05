@@ -22,14 +22,19 @@ body {
 	font-size: 40;
 }
 
-.main button {
-	margin-top: 100px;
-	padding: 40px;
+.submain button {
+	margin-top: 20px;
+	padding: 20px;
 	background-color: #ffffff;
-	border: none;
+	border: solid #494884;
 }
 
 .main a {
 	text-decoration: none;
 	color: black;
+}
+
+.main p
+{
+	font-size: 20;
 }
